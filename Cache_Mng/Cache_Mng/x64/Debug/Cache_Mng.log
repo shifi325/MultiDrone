@@ -1,0 +1,13 @@
+﻿  Cache_Mng.c
+C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\Cache_Mng\Cache_Mng.c(174,5): warning C4133: 'return': incompatible types - from 'QueueNode_t *' to 'int *'
+C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\Cache_Mng\Cache_Mng.c(190,20): warning C4098: 'hashTable_initialize': 'void' function returning a value
+C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\Cache_Mng\Cache_Mng.c(382,144): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\Cache_Mng\Cache_Mng.c(382,144): warning C4024: 'allocate_memory': different types for formal and actual parameter 3
+C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\Cache_Mng\Cache_Mng.c(382,180): warning C4020: 'allocate_memory': too many actual parameters
+C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\Cache_Mng\Cache_Mng.c(395,65): warning C4028: formal parameter 2 different from declaration
+  UnitTest.c
+  Generating Code...
+  Doctest.cpp
+C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\Cache_Mng\Doctest.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\Cache_Mng\Doctest.cpp(13,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cache_Mng.vcxproj -> C:\Users\שיפי וינגרטן\Downloads\jm_LwUqK9590Eu6N1S\Cache_Mng\x64\Debug\Cache_Mng.exe
