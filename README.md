@@ -1,5 +1,6 @@
 Drone cameras
 This project presents the tasks for which I was responsible in the general project as part of the practicum in which 50 software engineers participated.
+
 Cache management of slave
 I managed the cache very efficiently using the C language and DOCTEST tests in the C++ language
 handling adding an image to the cache,
